@@ -1,0 +1,17 @@
+p {
+  margin: 20px;
+  box-shadow: 4px;
+}
+
+#my_favorite_class {
+  display: block;
+}
+
+.another_class {
+  -webkit-transform: translateX(20px);
+  background-color: red;
+
+  .this-class {
+    color: blue;
+  }
+}
